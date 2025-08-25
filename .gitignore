@@ -1,0 +1,13 @@
+build/
+devel/
+install/
+log/
+.colcon/
+__pycache__/
+*.pyc
+*.swp
+*.swo
+.vscode/
+.idea/
+*.bag
+*.bag.active
